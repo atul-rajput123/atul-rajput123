@@ -1,3 +1,14 @@
+<style>
+.custom-link {
+    color: #ff6347; /* Custom color */
+    text-decoration: none; /* Remove underline */
+    font-weight: bold;
+}
+.custom-link:hover {
+    color: #32cd32; /* Change color on hover */
+}
+
+</style>
 <h1 align="center">Hi 👋, I'm Atul Rajput</h1>
 <h3 align="center">A Passionate Back-End Developer from India, Crafting Robust and Scalable Solutions</h3>
 
@@ -9,7 +20,8 @@
 
 - 💬 Ask me about **I am Atul Rajput, a B.Tech student from Swami Vivekanand College of Engineering, with expertise in Core Java, Advanced Java, Data Structures & Algorithms, and MySQL. I have developed 5+ projects using Java and MySQL and gained practical experience through virtual internships, applying my technical skills to solve real-world problems.**
 
-- 📫 How to reach me <a href="https://www.linkedin.com/in/atul-rajput-a52565270?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">Visit Example Website</a>
+- 📫 How to reach me <a href="https://www.linkedin.com/in/atul-rajput-a52565270?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" class="custom-link">Visit Example Website</a>
+
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/11UzRfVVtptG2F66u6smDPDHoxFjyNzsA/view?usp=drivesdk](https://drive.google.com/file/d/11UzRfVVtptG2F66u6smDPDHoxFjyNzsA/view?usp=drivesdk)
 

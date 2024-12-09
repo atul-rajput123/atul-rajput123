@@ -13,7 +13,7 @@
 
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/atul-rajput-a52565270?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" style="color: #ff6347; text-decoration: none; font-weight: bold;">LinkedIn</a>
 
-- 📄 Know about my experiences: <a href="https://www.example.com" target="_blank" style="color: #32cd32; text-decoration: none; font-weight: bold;">Resume</a>
+- 📄 Know about my experiences: <a href="https://drive.google.com/file/d/11UzRfVVtptG2F66u6smDPDHoxFjyNzsA/view?usp=drivesdk" target="_blank" style="color: #32cd32; text-decoration: none; font-weight: bold;">Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

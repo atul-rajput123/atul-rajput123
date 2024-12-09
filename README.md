@@ -1,14 +1,3 @@
-<style>
-.custom-link {
-    color: #ff6347; /* Custom color */
-    text-decoration: none; /* Remove underline */
-    font-weight: bold;
-}
-.custom-link:hover {
-    color: #32cd32; /* Change color on hover */
-}
-</style>
-
 <h1 align="center">Hi 👋, I'm Atul Rajput</h1>
 <h3 align="center">A Passionate Back-End Developer from India, Crafting Robust and Scalable Solutions</h3>
 
@@ -22,9 +11,9 @@
 
 - 💬 Ask me about **Core Java, Advanced Java, Data Structures & Algorithms, and MySQL**
 
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/atul-rajput-a52565270?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" class="custom-link">LinkedIn</a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/atul-rajput-a52565270?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" style="color: #ff6347; text-decoration: none; font-weight: bold;">LinkedIn</a>
 
-- 📄 Know about my experiences: <a href="https://www.example.com" target="_blank">Resume</a>
+- 📄 Know about my experiences: <a href="https://www.example.com" target="_blank" style="color: #32cd32; text-decoration: none; font-weight: bold;">Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

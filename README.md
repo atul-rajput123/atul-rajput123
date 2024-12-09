@@ -20,10 +20,11 @@
 
 - 💬 Ask me about **I am Atul Rajput, a B.Tech student from Swami Vivekanand College of Engineering, with expertise in Core Java, Advanced Java, Data Structures & Algorithms, and MySQL. I have developed 5+ projects using Java and MySQL and gained practical experience through virtual internships, applying my technical skills to solve real-world problems.**
 
-- 📫 How to reach me <a href="https://www.linkedin.com/in/atul-rajput-a52565270?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" class="custom-link">Visit Example Website</a>
+- 📫 How to reach me <a href="https://www.linkedin.com/in/atul-rajput-a52565270?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" class="custom-link">Linkedin</a>
 
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/11UzRfVVtptG2F66u6smDPDHoxFjyNzsA/view?usp=drivesdk](https://drive.google.com/file/d/11UzRfVVtptG2F66u6smDPDHoxFjyNzsA/view?usp=drivesdk)
+- 📄 Know about my experiences <a href="https://www.example.com" target="_blank">Resume</a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

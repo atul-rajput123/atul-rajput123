@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/atul-rajput123/atul-rajput123/blob/main/photo.jpg">
-    <img src="https://github.com/atul-rajput123/atul-rajput123/blob/main/photo.jpg" alt="Atul Rajput" width="1000" height="300" style="border-radius: 50%;"/>
+    <img src="https://github.com/atul-rajput123/atul-rajput123/blob/main/photo.jpg" alt="Atul Rajput" width="1000" height="400" style="border-radius: 50%;"/>
   </a>
 </p>
 

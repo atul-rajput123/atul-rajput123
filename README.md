@@ -1,10 +1,12 @@
+<p align="center">
+  <a href="https://github.com/atul-rajput123/atul-rajput123/blob/main/photo.jpg">
+    <img src="https://github.com/atul-rajput123/atul-rajput123/blob/main/photo.jpg" alt="Atul Rajput" width="1000" height="500" style="border-radius: 50%;"/>
+  </a>
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Atul Rajput</h1>
 <h3 align="center">A Passionate Back-End Developer from India, Crafting Robust and Scalable Solutions</h3>
-
- 
-<p align="center">
-  <img src="https://github.com/atul-rajput123/repo-name/blob/main/photo.jpg" alt="Atul Rajput" width="200" style="border-radius: 50%;"/>
-</p>
  
 
 <p align="left"> 

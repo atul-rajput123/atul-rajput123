@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Atul Rajput</h1>
 <h3 align="center">A Passionate Back-End Developer from India, Crafting Robust and Scalable Solutions</h3>
 
+ 
+<p align="center">
+  <img src="https://github.com/atul-rajput123/repo-name/blob/main/photo.jpg" alt="Atul Rajput" width="200" style="border-radius: 50%;"/>
+</p>
+ 
+
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=atul-rajput123&label=Profile%20views&color=0e75b6&style=flat" alt="atul-rajput123" /> 
 </p>
